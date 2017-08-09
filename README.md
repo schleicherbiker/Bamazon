@@ -13,7 +13,7 @@ Amazon-like Node Application Using MySQL
 
 ![alt text](https://github.com/schleicherbiker/Bamazon/raw/master/Images/BuyItem.PNG "Items")
 
-## After a valid quantity is entered, the total price will be logged.
+## After a valid quantity is entered, the total price will be logged. The quantity change is reflected in both the console and the database.
 
 ![alt text](https://github.com/schleicherbiker/Bamazon/raw/master/Images/BuyItem_2.PNG "Items")
 
